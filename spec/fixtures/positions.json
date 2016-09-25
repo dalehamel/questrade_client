@@ -1,0 +1,17 @@
+{
+  "positions": [
+    {
+      "symbol": "THI.TO",
+      "symbolId": 38738 ,
+      "openQuantity": 100,
+      "currentMarketValue": 6017,
+      "currentPrice": 60.17,
+      "averageEntryPrice": 60.23,
+      "closedPnl": 0,
+      "openPnl": -6,
+      "totalCost": false,
+      "isRealTime": "Individual",
+      "isUnderReorg": false
+    }
+  ]
+}

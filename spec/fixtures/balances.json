@@ -1,0 +1,82 @@
+{
+  "perCurrencyBalances": [
+    {
+      "currency": "CAD",
+      "cash": 500000,
+      "marketValue": 0,
+      "totalEquity": 500000,
+      "buyingPower": 1500000,
+      "maintenanceExcess": 500000,
+      "isRealTime": true
+    },
+    {
+      "currency": "USD",
+      "cash": 500000,
+      "marketValue": 0,
+      "totalEquity": 500000,
+      "buyingPower": 1500000,
+      "maintenanceExcess": 500000,
+      "isRealTime": true
+    }
+  ],
+  "combinedBalances": [
+    {
+      "currency": "CAD",
+      "cash": 1018100,
+      "marketValue": 0,
+      "totalEquity": 1018100,
+      "buyingPower": 3054300,
+      "maintenanceExcess": 1018100,
+      "isRealTime": true
+    },
+    {
+      "currency": "USD",
+      "cash": 982532.329666,
+      "marketValue": 0,
+      "totalEquity": 982532.329666,
+      "buyingPower": 2947596.988998,
+      "maintenanceExcess": 982532.329666,
+      "isRealTime": true
+    }
+  ],
+  "sodPerCurrencyBalances": [
+    {
+      "currency": "CAD",
+      "cash": 500000,
+      "marketValue": 0,
+      "totalEquity": 500000,
+      "buyingPower": 1500000,
+      "maintenanceExcess": 500000,
+      "isRealTime": true
+    },
+    {
+      "currency": "USD",
+      "cash": 500000,
+      "marketValue": 0,
+      "totalEquity": 500000,
+      "buyingPower": 1500000,
+      "maintenanceExcess": 500000,
+      "isRealTime": true
+    }
+  ],
+  "sodCombinedBalances": [
+    {
+      "currency": "CAD",
+      "cash": 1018100,
+      "marketValue": 0,
+      "totalEquity": 1018100,
+      "buyingPower": 3054300,
+      "maintenanceExcess": 1018100,
+      "isRealTime": true
+    },
+    {
+      "currency": "USD",
+      "cash": 982532.329666,
+      "marketValue": 0,
+      "totalEquity": 982532.329666,
+      "buyingPower": 2947596.988998,
+      "maintenanceExcess": 982532.329666,
+      "isRealTime": true
+    }
+  ]
+}
