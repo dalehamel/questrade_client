@@ -1,3 +1,5 @@
+[![Travis CI](https://travis-ci.org/dalehamel/questrade_client.svg)](https://travis-ci.org/dalehamel/questrade_client)
+
 # QuestradeClient
 
 Set up a practice account to play around:
