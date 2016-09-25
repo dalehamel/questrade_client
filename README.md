@@ -47,3 +47,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+# Disclaimer
+
+This gem is NOT supported, it is not affiliated with questrade in any way. Use at your own risk. Test all operations in a sandbox before executing them with a real account and real money. Don't be an idiot.
