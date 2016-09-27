@@ -4,7 +4,7 @@ describe QuestradeClient do
 
   let (:faketoken) { 'foobar' }
   let (:practicelogin) { 'https://practicelogin.questrade.com/oauth2/token?grant_type=refresh_token' }
-  let (:headers) { {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Content-Length'=>'0', 'User-Agent'=>'questrade_client/0.0.1'} }
+  let (:headers) { {'Accept'=>'*/*', 'Accept-Encoding'=>'gzip;q=1.0,deflate;q=0.6,identity;q=0.3', 'Content-Length'=>'0', 'User-Agent'=>"questrade_client/#{QuestradeClient::VERSION}"} }
 
   describe '#login' do
     it 'can return a client' do
