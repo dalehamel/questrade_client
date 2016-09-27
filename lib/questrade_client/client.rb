@@ -1,4 +1,6 @@
 require 'questrade_client/account'
+require 'questrade_client/symbol'
+require 'questrade_client/market'
 require 'faraday_middleware'
 
 module QuestradeClient
@@ -42,6 +44,8 @@ module QuestradeClient
     end
 
     include QuestradeClient::Account
+    include QuestradeClient::Symbol
+    include QuestradeClient::Market
 
     private
 

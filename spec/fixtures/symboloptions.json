@@ -1,0 +1,315 @@
+{
+  "optionChain": [
+    {
+      "expiryDate": "2016-10-21T00:00:00.000000-04:00",
+      "description": "BANK OF MONTREAL",
+      "listingExchange": "OPRA",
+      "optionExerciseType": "American",
+      "chainPerRoot": [
+        {
+          "optionRoot": "BMO",
+          "chainPerStrikePrice": [
+            {
+              "strikePrice": 35,
+              "callSymbolId": 14755986,
+              "putSymbolId": 14755999
+            },
+            {
+              "strikePrice": 40,
+              "callSymbolId": 14755987,
+              "putSymbolId": 14756000
+            },
+            {
+              "strikePrice": 45,
+              "callSymbolId": 14755988,
+              "putSymbolId": 14756001
+            },
+            {
+              "strikePrice": 50,
+              "callSymbolId": 14755989,
+              "putSymbolId": 14756002
+            },
+            {
+              "strikePrice": 55,
+              "callSymbolId": 14755990,
+              "putSymbolId": 14756003
+            },
+            {
+              "strikePrice": 60,
+              "callSymbolId": 14755991,
+              "putSymbolId": 14756004
+            },
+            {
+              "strikePrice": 65,
+              "callSymbolId": 14755992,
+              "putSymbolId": 14756005
+            },
+            {
+              "strikePrice": 70,
+              "callSymbolId": 14755993,
+              "putSymbolId": 14756006
+            },
+            {
+              "strikePrice": 75,
+              "callSymbolId": 14755994,
+              "putSymbolId": 14756007
+            },
+            {
+              "strikePrice": 80,
+              "callSymbolId": 14755995,
+              "putSymbolId": 14756008
+            },
+            {
+              "strikePrice": 85,
+              "callSymbolId": 14755996,
+              "putSymbolId": 14756009
+            },
+            {
+              "strikePrice": 90,
+              "callSymbolId": 14755997,
+              "putSymbolId": 14756010
+            },
+            {
+              "strikePrice": 95,
+              "callSymbolId": 14755998,
+              "putSymbolId": 14756011
+            }
+          ],
+          "multiplier": 100
+        }
+      ]
+    },
+    {
+      "expiryDate": "2016-11-18T00:00:00.000000-05:00",
+      "description": "BANK OF MONTREAL",
+      "listingExchange": "OPRA",
+      "optionExerciseType": "American",
+      "chainPerRoot": [
+        {
+          "optionRoot": "BMO",
+          "chainPerStrikePrice": [
+            {
+              "strikePrice": 35,
+              "callSymbolId": 15054983,
+              "putSymbolId": 15054996
+            },
+            {
+              "strikePrice": 40,
+              "callSymbolId": 15054984,
+              "putSymbolId": 15054997
+            },
+            {
+              "strikePrice": 45,
+              "callSymbolId": 15054985,
+              "putSymbolId": 15054998
+            },
+            {
+              "strikePrice": 50,
+              "callSymbolId": 15054986,
+              "putSymbolId": 15054999
+            },
+            {
+              "strikePrice": 55,
+              "callSymbolId": 15054987,
+              "putSymbolId": 15055000
+            },
+            {
+              "strikePrice": 60,
+              "callSymbolId": 15054988,
+              "putSymbolId": 15055001
+            },
+            {
+              "strikePrice": 65,
+              "callSymbolId": 15054989,
+              "putSymbolId": 15055002
+            },
+            {
+              "strikePrice": 70,
+              "callSymbolId": 15054990,
+              "putSymbolId": 15055003
+            },
+            {
+              "strikePrice": 75,
+              "callSymbolId": 15054991,
+              "putSymbolId": 15055004
+            },
+            {
+              "strikePrice": 80,
+              "callSymbolId": 15054992,
+              "putSymbolId": 15055005
+            },
+            {
+              "strikePrice": 85,
+              "callSymbolId": 15054993,
+              "putSymbolId": 15055006
+            },
+            {
+              "strikePrice": 90,
+              "callSymbolId": 15054994,
+              "putSymbolId": 15055007
+            },
+            {
+              "strikePrice": 95,
+              "callSymbolId": 15054995,
+              "putSymbolId": 15055008
+            }
+          ],
+          "multiplier": 100
+        }
+      ]
+    },
+    {
+      "expiryDate": "2016-12-16T00:00:00.000000-05:00",
+      "description": "BANK OF MONTREAL",
+      "listingExchange": "OPRA",
+      "optionExerciseType": "American",
+      "chainPerRoot": [
+        {
+          "optionRoot": "BMO",
+          "chainPerStrikePrice": [
+            {
+              "strikePrice": 35,
+              "callSymbolId": 13453921,
+              "putSymbolId": 13453933
+            },
+            {
+              "strikePrice": 40,
+              "callSymbolId": 13453922,
+              "putSymbolId": 13453934
+            },
+            {
+              "strikePrice": 45,
+              "callSymbolId": 13453923,
+              "putSymbolId": 13453935
+            },
+            {
+              "strikePrice": 50,
+              "callSymbolId": 13453924,
+              "putSymbolId": 13453936
+            },
+            {
+              "strikePrice": 55,
+              "callSymbolId": 13453925,
+              "putSymbolId": 13453937
+            },
+            {
+              "strikePrice": 60,
+              "callSymbolId": 13453926,
+              "putSymbolId": 13453938
+            },
+            {
+              "strikePrice": 65,
+              "callSymbolId": 13453927,
+              "putSymbolId": 13453939
+            },
+            {
+              "strikePrice": 70,
+              "callSymbolId": 13453928,
+              "putSymbolId": 13453940
+            },
+            {
+              "strikePrice": 75,
+              "callSymbolId": 13453929,
+              "putSymbolId": 13453941
+            },
+            {
+              "strikePrice": 80,
+              "callSymbolId": 13453930,
+              "putSymbolId": 13453942
+            },
+            {
+              "strikePrice": 85,
+              "callSymbolId": 13453931,
+              "putSymbolId": 13453943
+            },
+            {
+              "strikePrice": 90,
+              "callSymbolId": 13453932,
+              "putSymbolId": 13453944
+            }
+          ],
+          "multiplier": 100
+        }
+      ]
+    },
+    {
+      "expiryDate": "2017-03-17T00:00:00.000000-04:00",
+      "description": "BANK OF MONTREAL",
+      "listingExchange": "OPRA",
+      "optionExerciseType": "American",
+      "chainPerRoot": [
+        {
+          "optionRoot": "BMO",
+          "chainPerStrikePrice": [
+            {
+              "strikePrice": 35,
+              "callSymbolId": 14395136,
+              "putSymbolId": 14395149
+            },
+            {
+              "strikePrice": 40,
+              "callSymbolId": 14395137,
+              "putSymbolId": 14395150
+            },
+            {
+              "strikePrice": 45,
+              "callSymbolId": 14395138,
+              "putSymbolId": 14395151
+            },
+            {
+              "strikePrice": 50,
+              "callSymbolId": 14395139,
+              "putSymbolId": 14395152
+            },
+            {
+              "strikePrice": 55,
+              "callSymbolId": 14395140,
+              "putSymbolId": 14395153
+            },
+            {
+              "strikePrice": 60,
+              "callSymbolId": 14395141,
+              "putSymbolId": 14395154
+            },
+            {
+              "strikePrice": 65,
+              "callSymbolId": 14395142,
+              "putSymbolId": 14395155
+            },
+            {
+              "strikePrice": 70,
+              "callSymbolId": 14395143,
+              "putSymbolId": 14395156
+            },
+            {
+              "strikePrice": 75,
+              "callSymbolId": 14395144,
+              "putSymbolId": 14395157
+            },
+            {
+              "strikePrice": 80,
+              "callSymbolId": 14395145,
+              "putSymbolId": 14395158
+            },
+            {
+              "strikePrice": 85,
+              "callSymbolId": 14395146,
+              "putSymbolId": 14395159
+            },
+            {
+              "strikePrice": 90,
+              "callSymbolId": 14395147,
+              "putSymbolId": 14395160
+            },
+            {
+              "strikePrice": 95,
+              "callSymbolId": 14395148,
+              "putSymbolId": 14395161
+            }
+          ],
+          "multiplier": 100
+        }
+      ]
+    }
+  ]
+}

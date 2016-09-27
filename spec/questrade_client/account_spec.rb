@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe QuestradeClient do
+describe QuestradeClient::Account do
   let(:endpoint) { 'https://app01.iq.questrade.example.com' }
   let(:token) { 'TESTTOKEN' }
   let(:account) { '26598145' }

@@ -1,0 +1,154 @@
+{
+  "symbols": [
+    {
+      "symbol": "AAPL",
+      "symbolId": 8049,
+      "prevDayClosePrice": 114.62,
+      "highPrice52": 123.82,
+      "lowPrice52": 89.47,
+      "averageVol3Months": 36597980,
+      "averageVol20Days": 44309090,
+      "outstandingShares": 5388443000,
+      "eps": 8.59,
+      "pe": 13.35,
+      "dividend": 0.57,
+      "yield": 1.99,
+      "exDate": "2016-08-04T00:00:00.000000-04:00",
+      "marketCap": 617623336660,
+      "tradeUnit": 1,
+      "optionType": null,
+      "optionDurationType": null,
+      "optionRoot": "",
+      "optionContractDeliverables": {
+        "underlyings": [
+
+        ],
+        "cashInLieu": 0
+      },
+      "optionExerciseType": null,
+      "listingExchange": "NASDAQ",
+      "description": "APPLE INC",
+      "securityType": "Stock",
+      "optionExpiryDate": null,
+      "dividendDate": "2016-08-11T00:00:00.000000-04:00",
+      "optionStrikePrice": null,
+      "isTradable": true,
+      "isQuotable": true,
+      "hasOptions": true,
+      "currency": "USD",
+      "minTicks": [
+        {
+          "pivot": 0,
+          "minTick": 0.0001
+        },
+        {
+          "pivot": 1,
+          "minTick": 0.01
+        }
+      ],
+      "industrySector": "Technology",
+      "industryGroup": "ComputerHardware",
+      "industrySubgroup": "ConsumerElectronics"
+    },
+    {
+      "symbol": "SHOP",
+      "symbolId": 9975422,
+      "prevDayClosePrice": 43.86,
+      "highPrice52": 45.2,
+      "lowPrice52": 18.48,
+      "averageVol3Months": 1080632,
+      "averageVol20Days": 812949,
+      "outstandingShares": 73861000,
+      "eps": -0.34,
+      "pe": null,
+      "dividend": 0,
+      "yield": 0,
+      "exDate": null,
+      "marketCap": 3239543460,
+      "tradeUnit": 1,
+      "optionType": null,
+      "optionDurationType": null,
+      "optionRoot": "",
+      "optionContractDeliverables": {
+        "underlyings": [
+
+        ],
+        "cashInLieu": 0
+      },
+      "optionExerciseType": null,
+      "listingExchange": "NYSE",
+      "description": "SHOPIFY INC",
+      "securityType": "Stock",
+      "optionExpiryDate": null,
+      "dividendDate": null,
+      "optionStrikePrice": null,
+      "isTradable": true,
+      "isQuotable": true,
+      "hasOptions": true,
+      "currency": "USD",
+      "minTicks": [
+        {
+          "pivot": 0,
+          "minTick": 0.0001
+        },
+        {
+          "pivot": 1,
+          "minTick": 0.01
+        }
+      ],
+      "industrySector": "Technology",
+      "industryGroup": "ApplicationSoftware",
+      "industrySubgroup": "SoftwareApplication"
+    },
+    {
+      "symbol": "VTI",
+      "symbolId": 40571,
+      "prevDayClosePrice": 111.79,
+      "highPrice52": 112.78,
+      "lowPrice52": 91.58,
+      "averageVol3Months": 2321725,
+      "averageVol20Days": 2285093,
+      "outstandingShares": 581545343,
+      "eps": null,
+      "pe": null,
+      "dividend": 0.539,
+      "yield": 1.93,
+      "exDate": "2016-09-13T00:00:00.000000-04:00",
+      "marketCap": 65010953893,
+      "tradeUnit": 1,
+      "optionType": null,
+      "optionDurationType": null,
+      "optionRoot": "",
+      "optionContractDeliverables": {
+        "underlyings": [
+
+        ],
+        "cashInLieu": 0
+      },
+      "optionExerciseType": null,
+      "listingExchange": "ARCA",
+      "description": "VANGUARD TOT STK MKT IDX VIPER",
+      "securityType": "Stock",
+      "optionExpiryDate": null,
+      "dividendDate": "2016-09-19T00:00:00.000000-04:00",
+      "optionStrikePrice": null,
+      "isTradable": true,
+      "isQuotable": true,
+      "hasOptions": true,
+      "currency": "USD",
+      "minTicks": [
+        {
+          "pivot": 0,
+          "minTick": 0.0001
+        },
+        {
+          "pivot": 1,
+          "minTick": 0.01
+        }
+      ],
+      "industrySector": null,
+      "industryGroup": null,
+      "industrySubgroup": null
+    }
+  ]
+}

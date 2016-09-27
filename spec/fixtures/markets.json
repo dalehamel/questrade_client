@@ -1,0 +1,343 @@
+{
+  "markets": [
+    {
+      "name": "TSX",
+      "tradingVenues": [
+        "TSX",
+        "ALPH",
+        "CHIC",
+        "OMGA",
+        "PURE"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO"
+      ],
+      "secondaryOrderRoutes": [
+        "TSX",
+        "AUTO"
+      ],
+      "level1Feeds": [
+        "ALPH",
+        "CHIC",
+        "OMGA",
+        "PURE",
+        "TSX"
+      ],
+      "level2Feeds": [
+        "ALPH",
+        "CHIC",
+        "OMGA",
+        "PURE",
+        "TSX"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "TSXV",
+      "tradingVenues": [
+        "TSXV",
+        "ALPH",
+        "CHIC",
+        "OMGA",
+        "PURE"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO"
+      ],
+      "secondaryOrderRoutes": [
+        "TSXV",
+        "AUTO"
+      ],
+      "level1Feeds": [
+        "ALPH",
+        "CHIC",
+        "PURE",
+        "TSXV"
+      ],
+      "level2Feeds": [
+        "ALPH",
+        "CHIC",
+        "PURE",
+        "TSXV"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "MX",
+      "tradingVenues": [
+        "MX"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "MX"
+      ],
+      "level2Feeds": [
+        "MX"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "CNSX",
+      "tradingVenues": [
+        "CNSX"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO"
+      ],
+      "secondaryOrderRoutes": [
+        "CNSX",
+        "AUTO"
+      ],
+      "level1Feeds": [
+        "CNSX"
+      ],
+      "level2Feeds": [
+        "CNSX"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "NASDAQ",
+      "tradingVenues": [
+        "NASDAQ",
+        "NYSE",
+        "ARCA",
+        "BATS"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO",
+        "NASDAQ",
+        "ARCA",
+        "LAMP",
+        "ITG"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "BATS",
+        "NASDAQ"
+      ],
+      "level2Feeds": [
+        "AMEX",
+        "ARCA",
+        "BATS",
+        "NASDAQ"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "NYSE",
+      "tradingVenues": [
+        "NASDAQ",
+        "NYSE",
+        "ARCA",
+        "BATS"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO",
+        "NYSE",
+        "ARCA",
+        "NASDAQ",
+        "LAMP",
+        "ITG"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "BATS",
+        "NYSE"
+      ],
+      "level2Feeds": [
+        "ARCA",
+        "BATS",
+        "NASDAQ",
+        "NYSE"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "AMEX",
+      "tradingVenues": [
+        "NASDAQ",
+        "AMEX",
+        "ARCA",
+        "BATS"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO",
+        "ARCA",
+        "NASDAQ",
+        "LAMP",
+        "ITG"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "AMEX",
+        "BATS"
+      ],
+      "level2Feeds": [
+        "AMEX",
+        "ARCA",
+        "BATS",
+        "NASDAQ"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "ARCA",
+      "tradingVenues": [
+        "NASDAQ",
+        "AMEX",
+        "ARCA",
+        "BATS"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO",
+        "ARCA",
+        "NASDAQ",
+        "LAMP",
+        "ITG"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "AMEX",
+        "BATS"
+      ],
+      "level2Feeds": [
+        "ARCA",
+        "BATS",
+        "NASDAQ"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "OPRA",
+      "tradingVenues": [
+        "OPRA"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "OPRA"
+      ],
+      "level2Feeds": [
+        "OPRA"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "PINX",
+      "tradingVenues": [
+        "PINX"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO",
+        "LAMP"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "PINX"
+      ],
+      "level2Feeds": [
+        "PINX"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    },
+    {
+      "name": "OTCBB",
+      "tradingVenues": [
+        "NASDAQ",
+        "NYSE",
+        "ARCA",
+        "OTCBB"
+      ],
+      "defaultTradingVenue": "AUTO",
+      "primaryOrderRoutes": [
+        "AUTO",
+        "LAMP"
+      ],
+      "secondaryOrderRoutes": [
+
+      ],
+      "level1Feeds": [
+        "OTCBB"
+      ],
+      "level2Feeds": [
+        "OTCBB",
+        "PINX"
+      ],
+      "extendedStartTime": "2016-09-26T00:00:00.000000-04:00",
+      "startTime": "2016-09-26T00:00:00.000000-04:00",
+      "endTime": "2016-09-26T23:59:59.999000-04:00",
+      "extendedEndTime": "2016-09-26T23:59:59.999000-04:00",
+      "snapQuotesLimit": 99999
+    }
+  ]
+}
